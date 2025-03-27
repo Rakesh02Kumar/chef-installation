@@ -162,4 +162,3 @@ chmod +x setup_chef_project.sh
 
 This script handles the entire process from system update to Chef Workstation installation, repository setup, cookbook creation, recipe writing, and Chef client execution. Adjust the CHEF_WORKSTATION_URL and other variables as needed.
 
-
